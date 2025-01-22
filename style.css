@@ -1,0 +1,74 @@
+.mov-links {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.links-container {
+    text-align: center;
+}
+
+.character {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.character-reverse {
+    flex-direction: row-reverse;
+}
+
+.charimage-left {
+    margin-left: 100px;
+    max-width: 450px;
+    height: auto;
+}
+
+.charcontent-left {
+    max-width: 2500px;
+}
+
+.charheader-left {
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.chardesc-left {
+    color: black;
+    font-size: 40px;
+    line-height: 1.0;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.charimage-right {
+    margin-right: 100px;
+    max-width: 450px;
+    height: auto;
+}
+
+.charcontent-right {
+    max-width: 2500px;
+}
+
+.charheader-right {
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.chardesc-right{
+    color: black;
+    font-size: 40px;
+    line-height: 1.0;
+    margin-left: 100px;
+    text-align: center;
+}
